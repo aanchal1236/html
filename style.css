@@ -1,0 +1,36 @@
+@font-face {
+    font-family: "stddemi-font";
+    src: url("./fonts/ITCAvantGardeStdDemi.otf");
+  }
+  
+  @font-face {
+    font-family: "stdmedium-font";
+    src: url("./fonts/ITCAvantGardeStdMd.otf");
+  }
+  
+  @font-face {
+    font-family: "stdbook-font";
+    src: url("./fonts/ITCAvantGardeStdBk.otf");
+  }
+  img.bell {
+    height: 31px;
+    width: 32px;
+}
+  img.log {
+    height: 30px;
+    width: 50px;
+    
+}
+img.logo {
+  width: 156px;
+  height: 32px;
+}
+
+i.fa.fa-user-circle {
+  font-size: 31px;
+  color:#0BEBC6;
+}
+.btn-check:focus+.btn, .btn:focus {
+  outline: 0;
+  box-shadow: none !important;
+}
